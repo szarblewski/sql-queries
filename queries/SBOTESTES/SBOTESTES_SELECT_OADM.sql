@@ -1,5 +1,5 @@
 -- SELECT gerado para OADM
-SELECT TOP 200
+SELECT TOP 20000
 	"CompnyName",
 	"CompnyAddr",
 	"Country",
