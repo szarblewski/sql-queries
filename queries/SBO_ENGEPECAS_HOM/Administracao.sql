@@ -1,1 +1,1 @@
-select * from OADM order by desc
+select * from OADM order by desc  dddd
