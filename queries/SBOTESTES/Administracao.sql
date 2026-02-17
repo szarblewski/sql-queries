@@ -1,1 +1,1 @@
-select * from OADM order by desc
+select top 1 * from OADM order by desc 
